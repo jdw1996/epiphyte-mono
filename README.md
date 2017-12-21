@@ -13,18 +13,19 @@ contain font information.
 ## TODO List
 
 * [x] Curvier `~`
-* [ ] Slashed `0`
 * [ ] Heavier `` ` ``
-* [ ] Lower cross-bar on `f`
-* [ ] Long tail on `f` in italics
-* [ ] Bottom serif on upright `f`
 * [ ] Larger dot on `?`
 * [ ] Larger dot on `!`
-* [ ] More pronounced tail in `Q`
-* [ ] Curly tail on `l`
-* [ ] Single-storey `a` in italics
+* [ ] Lower cross-bar on `f`
+* [ ] Long tail on `f` in italics
 * [ ] Wider `<` and `>`
 * [ ] Straight `#`
+* [ ] Bottom serif on upright `f`
+* [ ] Bottom serif on `r`
+* [ ] Curly tail on `l`
+* [ ] Slashed `0`
+* [ ] More pronounced tail in `Q`
+* [ ] Single-storey `a` in italics
 * [ ] Lower, larger `*`
 * [ ] Simpler `@`
 * [ ] Double-storey `g`
