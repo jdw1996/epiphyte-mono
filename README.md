@@ -1,6 +1,6 @@
-# Semper Mono
+# Epiphyte Mono
 
-The Semper Mono font is a clear, easy-to-read font primarily intended for
+The Epiphyte Mono font is a clear, easy-to-read font primarily intended for
 writing code.  It is based on the
 [Liberation Mono](https://pagure.io/liberation-fonts) font and so is metrically
 compatible with Courier New.
