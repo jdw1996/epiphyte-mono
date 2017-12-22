@@ -1,10 +1,10 @@
 # Epiphyte Mono
 
-> *Randy:*  I work for Epiphyte Corporation, which is designed from the ground
+> **Randy:**  I work for Epiphyte Corporation, which is designed from the ground
 > up to work, not on its own, but as an element in a virtual corporation, kind
 > of like&mdash;
 >
-> *Amy:*  I know what an epiphyte is.
+> **Amy:**  I know what an epiphyte is.
 >
 > &mdash; <cite>*Cryptonomicon*, by Neal Stephenson</cite>
 
