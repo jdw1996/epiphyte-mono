@@ -24,6 +24,7 @@ contain font information.
 * [x] Larger `` ` ``
 * [ ] Larger dot on `?`
 * [ ] Larger dot on `!`
+* [ ] Narrower `_`
 * [ ] Lower cross-bar on `f`
 * [ ] Long tail on `f` in italics
 * [ ] Wider `<` and `>`
