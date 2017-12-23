@@ -21,7 +21,7 @@ contain font information.
 ## TODO List
 
 * [x] Curvier `~`
-* [ ] Heavier `` ` ``
+* [x] Larger `` ` ``
 * [ ] Larger dot on `?`
 * [ ] Larger dot on `!`
 * [ ] Lower cross-bar on `f`
