@@ -27,17 +27,15 @@ While GitHub identifies this repository as hosting
 * [x] Larger dot on `!`
 * [x] Narrower `_`
 * [x] Long tail on `f` in italics
-* [ ] Bottom serif on upright `f`
-* [ ] Bottom serif on `r`
-* [ ] Wider `<` and `>`
-* [ ] Curlier `{` and `}`
-* [ ] Straight `#`
-* [ ] Curly tail on `l`
-* [ ] Slashed `0`
-* [ ] More pronounced tail in `Q`
 * [ ] Single-storey `a` in italics
+* [ ] Curly tail on `l`
+* [ ] More pronounced tail in `Q`
+* [ ] Slashed `0`
 * [ ] Lower, larger `*`
+* [ ] Wider `<` and `>`
 * [ ] Simpler `@`
+* [ ] Straight `#`
+* [ ] Curlier `{` and `}`
 * [ ] Double-storey `g`
 * [ ] Larger dot on `¿`
 * [ ] Larger dot on `¡`
