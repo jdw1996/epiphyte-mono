@@ -40,3 +40,5 @@ While GitHub identifies this repository as hosting
 * [ ] Lower, larger `*`
 * [ ] Simpler `@`
 * [ ] Double-storey `g`
+* [ ] Larger dot on `¿`
+* [ ] Larger dot on `¡`
