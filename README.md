@@ -26,12 +26,12 @@ While GitHub identifies this repository as hosting
 * [x] Larger dot on `?`
 * [x] Larger dot on `!`
 * [x] Narrower `_`
-* [ ] Long tail on `f` in italics
+* [x] Long tail on `f` in italics
+* [ ] Bottom serif on upright `f`
+* [ ] Bottom serif on `r`
 * [ ] Wider `<` and `>`
 * [ ] Curlier `{` and `}`
 * [ ] Straight `#`
-* [ ] Bottom serif on upright `f`
-* [ ] Bottom serif on `r`
 * [ ] Curly tail on `l`
 * [ ] Slashed `0`
 * [ ] More pronounced tail in `Q`
