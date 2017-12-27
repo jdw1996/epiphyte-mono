@@ -29,7 +29,7 @@ While GitHub identifies this repository as hosting
 * [x] Long tail on `f` in italics
 * [x] Wider `<` and `>`
 * [x] Lower, larger `*`
-* [ ] Simpler `@`
+* [x] Simpler `@`
 * [ ] Straight `#`
 * [ ] Curlier `{` and `}`
 * [ ] Larger dot on `¿`
