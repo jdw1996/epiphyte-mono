@@ -9,7 +9,7 @@
 <italic>false</italic>
 <full_name>Epiphyte Mono Bold</full_name>
 <unique_identifier>Joseph Winters - Epiphyte Mono</unique_identifier>
-<version>Version 0.1</version>
+<version>Version 1.0</version>
 <description>Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.</description>
 <copyright>Digitized data copyright (c) 2010 Google Corporation.
 Copyright (c) 2017 Joseph Winters</copyright>
