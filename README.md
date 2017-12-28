@@ -12,7 +12,8 @@ The Epiphyte Mono font is a clear, easy-to-read font primarily intended for
 writing code.  It is based on the
 [Liberation Mono](https://pagure.io/liberation-fonts) font and so is metrically
 compatible with Courier New.  You can find the TTF files to install on your
-computer in the `fonts/` directory.
+computer in the `fonts/` directory, or you can download them in a Zip archive
+[here](https://github.com/jdw1996/epiphyte-mono/releases/download/v1.0/epiphyte-mono.zip).
 
 This is my first foray into font design, and it would not be possible if not
 for the [BirdFont](https://birdfont.org/) font editor and all the work that
