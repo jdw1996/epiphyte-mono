@@ -35,4 +35,3 @@ While GitHub identifies this repository as hosting
 * [x] Wider serif on `J` and `Ĵ`
 * [x] Larger dot on `¿`
 * [x] Larger dot on `¡`
-* [x] Single-storey `a` in italics
