@@ -31,6 +31,7 @@ While GitHub identifies this repository as hosting
 * [x] Lower, larger `*`
 * [x] Simpler `@`
 * [x] Sans serif `1`
-* [ ] Curlier `{` and `}`
+* [x] Curlier `{` and `}`
+* [ ] Wider serif on `J`
 * [ ] Larger dot on `¿`
 * [ ] Larger dot on `¡`
