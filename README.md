@@ -70,9 +70,9 @@ You can build the fonts with the following steps:
   `*.ttf` files by navigating to **File** > **Generate Fonts...**.
 1. It remains to run `ttfautohint` on each of the four `*.ttf` files produced
   by FontForge.  If the name of one is `unhinted.ttf`, run:
-  ```
-  $ ttfautohint unhinted.ttf hinted.ttf
-  ```
+    ```
+    $ ttfautohint unhinted.ttf hinted.ttf
+    ```
   The new file `hinted.ttf` will be the hinted font file, which is ready to be
   installed.
 
