@@ -22932,4 +22932,20 @@ Copyright (c) 2017 Joseph Winters</copyright>
 
 
 
+<spacing first="U+41" next="U+7e" />
+<spacing first="U+41" next="U+60" />
+<spacing first="U+41" next="U+3f" />
+<spacing first="U+41" next="U+bf" />
+<spacing first="U+41" next="U+21" />
+<spacing first="U+41" next="U+a1" />
+<spacing first="U+41" next="U+5f" />
+<spacing first="U+41" next="U+3c" />
+<spacing first="U+41" next="U+3e" />
+<spacing first="U+41" next="U+2a" />
+<spacing first="U+41" next="U+40" />
+<spacing first="U+41" next="U+31" />
+<spacing first="U+41" next="U+7b" />
+<spacing first="U+41" next="U+7d" />
+<spacing first="U+41" next="U+4a" />
+<spacing first="U+41" next="U+0134" />
 </font>
