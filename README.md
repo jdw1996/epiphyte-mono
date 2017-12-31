@@ -68,6 +68,10 @@ You can build the fonts with the following steps:
   `615` entered in it.  Next, press OK, and glyphs will start appearing one at
   a time; for each of them, select **Fix**.  Once this is done, generate
   `*.ttf` files by navigating to **File** > **Generate Fonts...**.
+1. Use the Python `fonttools` library to set the `isFixedPitch` field of the
+  `post` table of each of the `*.ttf` files to `1`, and the `numberOfHMetrics`
+  field to `3`.  This can be accomplished by modifying
+  [this script](https://github.com/pravins/liberation-fonts/blob/master/scripts/setisFixedPitch-fonttools.py).
 1. It remains to run `ttfautohint` on each of the four `*.ttf` files produced
   by FontForge.  If the name of one is `unhinted.ttf`, run:
     ```
